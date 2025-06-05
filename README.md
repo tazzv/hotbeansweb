@@ -1,4 +1,4 @@
-# hotbeansweb - https://hotbeanswebcommunity.netlify.app/
+# https://hotbeanswebcommunity.netlify.app/
 
 # Hot Beans Web - Recruitment Website Design Report
 
